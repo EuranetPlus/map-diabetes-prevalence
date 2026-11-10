@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe vaak komt diabetes voor in de EU-landen?",
+  "subtitle": "In 2024 bedroeg de gemiddelde prevalentie van diabetes in de EU-27 landen 7,4% onder volwassenen van 20 tot 79 jaar. Kroatië en Portugal hadden de hoogste percentages met 10,5%, terwijl Ierland het laagste percentage had met 3,6%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Leeftijdsgestandaardiseerde prevalentie corrigeert voor verschillen in de leeftijdsstructuur van nationale bevolkingen, waardoor zinvolle vergelijkingen tussen landen mogelijk zijn.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Internationale Diabetes Federatie",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van de volwassen bevolking in de leeftijd van 20-79 jaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
