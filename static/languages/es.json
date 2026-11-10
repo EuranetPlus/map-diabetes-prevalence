@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Qué tan común es la diabetes en los países de la UE?",
+  "subtitle": "En 2024, la prevalencia media de diabetes en los 27 países de la UE fue del 7,4 % entre los adultos de 20 a 79 años. Croacia y Portugal registraron las tasas más altas, con un 10,5 %, mientras que Irlanda tuvo la más baja, con un 3,6 %.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "La prevalencia estandarizada por edad ajusta las diferencias en la estructura de edad de las poblaciones nacionales, lo que permite realizar comparaciones más significativas entre países.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Federación Internacional de Diabetes",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
+  "customUnitLabel": "de la población adulta de entre 20 y 79 años.",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
