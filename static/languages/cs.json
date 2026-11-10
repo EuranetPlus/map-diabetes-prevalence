@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jak častá je cukrovka v zemích EU?",
+  "subtitle": "V roce 2024 byla průměrná prevalence diabetu v zemích EU-27 u dospělých ve věku 20–79 let 7,4 %. Nejvyšší míru zaznamenalo Chorvatsko a Portugalsko s 10,5 %, zatímco Irsko mělo nejnižší s 3,6 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Věkově standardizovaná prevalence zohledňuje rozdíly ve věkové struktuře populací jednotlivých zemí, což umožňuje smysluplnější srovnání mezi zeměmi.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Mezinárodní diabetická federace",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "dospělé populace ve věku 20–79 let",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
