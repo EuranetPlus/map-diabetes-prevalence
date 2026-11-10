@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kako pogosta je sladkorna bolezen v državah EU?",
+  "subtitle": "Leta 2024 je bila povprečna prevalenca sladkorne bolezni v državah EU-27 7,4 % med odraslimi, starimi od 20 do 79 let. Hrvaška in Portugalska sta zabeležili najvišje stopnje, 10,5 %, Irska pa najnižje, 3,6 %.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Starostno standardizirana prevalenca prilagaja razlike v starostni strukturi nacionalnih populacij, kar omogoča bolj smiselne primerjave med državami.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Mednarodna zveza za sladkorno bolezen",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "odraslega prebivalstva, starega od 20 do 79 let",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
