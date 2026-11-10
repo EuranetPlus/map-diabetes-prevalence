@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle est la prévalence du diabète dans les pays de l'UE ?",
+  "subtitle": "En 2024, la prévalence moyenne du diabète dans les 27 pays de l'UE était de 7,4 % chez les adultes âgés de 20 à 79 ans. La Croatie et le Portugal affichaient les taux les plus élevés (10,5 %), tandis que l'Irlande présentait le taux le plus bas (3,6 %).",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "La prévalence standardisée selon l'âge corrige les différences de structure par âge des populations nationales, permettant ainsi des comparaisons plus pertinentes entre les pays.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Fédération internationale du diabète",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "de la population adulte âgée de 20 à 79 ans",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
