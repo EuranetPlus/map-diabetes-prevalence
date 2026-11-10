@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko je dijabetes uobičajen u zemljama EU?",
+  "subtitle": "U 2024. godini prosječna prevalencija dijabetesa u zemljama EU-27 bila je 7,4% među odraslima u dobi od 20 do 79 godina. Hrvatska i Portugal zabilježili su najviše stope s 10,5%, dok je Irska imala najnižu s 3,6%.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Dobno standardizirana prevalencija prilagođava se razlikama u dobnoj strukturi nacionalnih populacija, omogućujući smislenije usporedbe između zemalja.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Međunarodna dijabetička federacija",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "odraslog stanovništva u dobi od 20 do 79 godina",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
