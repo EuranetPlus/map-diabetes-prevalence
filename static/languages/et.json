@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui levinud on diabeet EL-i riikides?",
+  "subtitle": "2024. aastal oli EL 27 riikide keskmine diabeedi levimus 20–79-aastaste täiskasvanute seas 7,4%. Kõrgeimad määrad registreeriti Horvaatias ja Portugalis, 10,5%, samas kui madalaim oli Iirimaal 3,6%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Vanuse järgi standardiseeritud levimus arvestab riikide rahvastiku vanuselise struktuuri erinevusi, võimaldades riikide vahel sisukamaid võrdlusi.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Rahvusvaheline Diabeediföderatsioon",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "täiskasvanud elanikkonnast vanuses 20–79",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
