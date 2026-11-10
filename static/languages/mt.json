@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm hi komuni d-dijabete fil-pajjiżi tal-UE?",
+  "subtitle": "Fl-2024, il-prevalenza medja tad-dijabete fil-pajjiżi tal-UE-27 kienet ta’ 7.4% fost l-adulti ta’ bejn l-20 u d-79 sena. Il-Kroazja u l-Portugall irreġistraw l-ogħla rati b’10.5%, filwaqt li l-Irlanda kellha l-aktar baxxa b’3.6%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il-prevalenza standardizzata skont l-età taġġusta għad-differenzi fl-istruttura tal-età tal-popolazzjonijiet nazzjonali, u b'hekk tippermetti paraguni aktar sinifikanti bejn il-pajjiżi.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Federazzjoni Internazzjonali tad-Dijabete",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "tal-popolazzjoni adulta ta' bejn l-20 u d-79 sena",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
