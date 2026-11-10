@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh coitianta is atá diaibéiteas i dtíortha an AE?",
+  "subtitle": "Sa bhliain 2024, ba é 7.4% an meán-leitheadúlacht diaibéiteas i measc daoine fásta idir 20 agus 79 bliain d'aois ar fud thíortha an AE-27. Bhí na rátaí is airde sa Chróit agus sa Phortaingéil, ag 10.5%, agus bhí na rátaí is ísle in Éirinn, ag 3.6%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Déanann leitheadúlacht caighdeánaithe de réir aoise coigeartú do dhifríochtaí i struchtúr aoise dhaonraí náisiúnta, rud a chuireann ar chumas comparáidí níos bríomhaire idir tíortha.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Cónaidhm Idirnáisiúnta Diaibéiteas",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "den daonra fásta idir 20 agus 79 bliain d'aois",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
