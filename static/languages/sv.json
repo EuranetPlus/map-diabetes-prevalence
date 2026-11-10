@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur vanligt är diabetes i EU-länderna?",
+  "subtitle": "År 2024 var den genomsnittliga diabetesprevalensen i EU-27-länderna 7,4 % bland vuxna i åldern 20–79 år. Kroatien och Portugal hade de högsta siffrorna med 10,5 %, medan Irland hade den lägsta med 3,6 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Åldersstandardiserad prevalens justerar för skillnader i åldersstrukturen hos nationella befolkningar, vilket möjliggör mer meningsfulla jämförelser mellan länder.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Internationella diabetesfederationen",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av den vuxna befolkningen i åldern 20–79",
   "tooltipExtraInfoLabel": "Klicka här"
 }
