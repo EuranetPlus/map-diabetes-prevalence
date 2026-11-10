@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik izplatīts ir diabēts ES valstīs?",
+  "subtitle": "2024. gadā vidējā diabēta izplatība ES 27 valstīs pieaugušo vidū vecumā no 20 līdz 79 gadiem bija 7,4 %. Horvātijā un Portugālē bija visaugstākie rādītāji – 10,5 %, savukārt Īrijā – viszemākie – 3,6 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Pēc vecuma standartizētā izplatība koriģē atšķirības valstu iedzīvotāju vecuma struktūrā, ļaujot veikt jēgpilnākus salīdzinājumus starp valstīm.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Starptautiskā diabēta federācija",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "pieaugušo iedzīvotāju vecumā no 20 līdz 79 gadiem",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
