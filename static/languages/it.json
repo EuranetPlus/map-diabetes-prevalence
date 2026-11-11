@@ -7,6 +7,6 @@
   "textSource": "Federazione Internazionale del Diabete",
   "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "della popolazione adulta di età compresa tra 20 e 79 anni",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "della popolazione adulta di età compresa tra 20 e 79 anni"
 }

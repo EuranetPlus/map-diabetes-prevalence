@@ -7,6 +7,6 @@
   "textSource": "Internationale Diabetes-Föderation",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "der erwachsenen Bevölkerung im Alter von 20-79",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "der erwachsenen Bevölkerung im Alter von 20-79"
 }

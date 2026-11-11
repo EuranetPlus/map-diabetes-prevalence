@@ -7,6 +7,6 @@
   "textSource": "International Diabetes Federation",
   "linkDataAccessDescription": "Access the data",
   "legend1": "No data available",
-  "customUnitLabel": "of adult population aged 20-79",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "customUnitLabel": "of adult population aged 20-79"
 }

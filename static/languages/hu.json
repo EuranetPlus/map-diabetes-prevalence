@@ -7,6 +7,6 @@
   "textSource": "Nemzetközi Diabétesz Szövetség",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
   "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "a 20-79 éves felnőtt lakosság körében",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "customUnitLabel": "a 20-79 éves felnőtt lakosság körében"
 }

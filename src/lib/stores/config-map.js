@@ -1,4 +1,5 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
   "title": "How common is diabetes across EU countries?",
   "subtitle": "In 2024, the average diabetes prevalence across EU-27 countries was 7.4% among adults aged 20–79. Croatia and Portugal recorded the highest rates at 10.5%, while Ireland had the lowest at 3.6%.",
